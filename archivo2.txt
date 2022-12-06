@@ -1,1 +1,2 @@
 test content for git 2
+test content for git 2 new line
